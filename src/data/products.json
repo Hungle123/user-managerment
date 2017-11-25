@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Moleskine Agenda",
+    "quantity": 23,
+    "price": 49,
+    "rate": 2
+  },
+  {
+    "id": 2,
+    "name": "Stabilo Pen",
+    "quantity": 12,
+    "price": 30,
+    "rate": 3
+  },
+  {
+    "id": 3,
+    "name": "A4 Paper Pack",
+    "quantity": 10,
+    "price": 48,
+    "rate": 5
+  },
+  {
+    "id": 4,
+    "name": "Apple iPad",
+    "quantity": 19,
+    "price": 200,
+    "rate": 4
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone",
+    "quantity": 23,
+    "price": 489,
+    "rate": 5
+  }
+]
